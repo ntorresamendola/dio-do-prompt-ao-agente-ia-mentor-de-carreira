@@ -23,6 +23,7 @@
 ## 💻 Sobre o Projeto
 
 O objetivo é demonstrar o uso de dois prompts, que poderiam ser transformados em agentes, para identificar a carreira profissional na carreira de tecnologia mais adequada e gerar um plano de estudos. Foi usado o chatGPT utilizando os modos adequados para cada prompt e objetivo (pense bem, pesquisa profunda, pesquisar na web), primeiro identificando a carreira mais adequada, depois realizando um plano de estudos de 90 dias incluindo links para cursos gratuitos sobre os tópicos selecionado e uma planilha Excel com esse plano de estudo. O plano de estudo foi feito para uma pessoa fictícia que tem interesse na área de dados e está começando do zero.
+Os diálogo completo com o agente de entrevista [está aqui](chat_completo_agente1.docx) e o diálogo completo com o agente de planejamento de carreira e planos de estudo [está aqui](chat_completo_agente2.docx)
 
 ## 🎯 Resultados
 
